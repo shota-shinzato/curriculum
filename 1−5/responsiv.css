@@ -30,11 +30,13 @@
     .m-left{
         width:200px;
         height:150px;
+        float:none;
     }
 
     .m-right{
         width:200px;
         height:210px;
+        float:none;
     }
 
     .mr-contents{
